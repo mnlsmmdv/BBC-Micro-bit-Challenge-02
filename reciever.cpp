@@ -1,4 +1,13 @@
- 
+/*
+Authors: Ahmed Affaan, Ahmed Ahsan Azim
+Country: Maldives
+Language: C++
+Email: mnlsmmdv13@protonmail.com , ahsanazim34@gmail.com
+GitHub/GitLab: https://github.com/mnlsmmdv13 , https://gitlab.uwe.ac.uk/aa2-azim
+Latest Modified: 03/04/2021 17:29PM
+Advice: None
+//*/ 
+
 #include "MicroBit.h"
 
 MicroBit uBit;
