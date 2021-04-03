@@ -6,7 +6,7 @@ The program chosen for Challenge 02 is the "Morse Code". It is an intermediate l
 
 
 ## Usage
-The program is to only be executed on the BBC Micro:bit device. Attempts to execute the C++ source code's hex code intended for this device and Challenge 01 on any other IOT device has the chance of not to execute and probably run in to errors. Log in to Mbed if you wish to edit the main.cpp file given in this repository and to maybe compile a new program for yourself online after the Micro:bit device is connected to the computer using a Mico USB to USB cable. Compile the code, download and copy the .hex file on to the device and it will run on start. Attach one pair of crocodile cables to each of the "0" pins in both Micro:bit's and attach the other pair to each of the "gnd" pins for it to work.
+The program is to only be executed on the BBC Micro:bit device. Attempts to execute the C++ source code's hex code intended for this device and Challenge 01 on any other IOT device has the chance of not to execute and probably run in to errors. Log in to Mbed if you wish to edit the .cpp files given in this repository and to maybe compile a new program for yourself online after the Micro:bit device is connected to the computer using a Mico USB to USB cable. Compile the code, download and copy the .hex file on to the device and it will run on start. Attach one pair of crocodile cables to each of the "0" pins in both Micro:bit's and attach the other pair to each of the "gnd" pins for it to work.
 
 ## Prerequisites
 #### 1 - BBC Micro:bit physical device X 2
