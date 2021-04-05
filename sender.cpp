@@ -19,7 +19,7 @@ MicroBit uBit;
 MicroBitButton buttonB(MICROBIT_PIN_BUTTON_B, MICROBIT_ID_BUTTON_B);
 
 void EchoTime();
-void CLockCalc();
+void ClockCalc();
 void Terminal();
 bool pressed = false;
 uint64_t StartPoint;
