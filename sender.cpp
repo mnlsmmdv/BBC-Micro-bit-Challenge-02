@@ -22,7 +22,7 @@ void EchoTime();
 void ClockCalc();
 void Terminal();
 bool pressed = false;
-uint64_t StartPoint;
+uint64_t StartPoint;    
 uint64_t clockDifference;
 
 /*
